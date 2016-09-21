@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+<item android:id="@+id/add_contact"
+       android:title="@string/add_contact"
+       app:showAsAction="ifRoom"
+    android:icon="@drawable/ic_add_contact"
+          />
+<!--<item android:title="@string/serachable"
+      android:icon="@drawable/ic_search"
+    android:id="@+id/menu_searchable"
+    app:showAsAction="ifRoom"
+    app:actionViewClass="android.support.v7.widget.SearchView"
+       />-->
+  </menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyContactManager</string>
+    <string name="toolbar_title">ContactManager</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="opt">option</string>
+    <string name="searchable">searchable</string>
+    <string name="serachable">searchable</string>
+    <string name="menu_searchable">searchable</string>
+    <string name="tick">save</string>
+    <string name="contact_profile">Profile Set Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="err_first_name">Enter the first name</string>
+    <string name="err_last_name">Enter last name</string>
+    <string name="err_email">Incorrect Email</string>
+    <string name="err_phone_number">Incorrect number</string>
+    <string name="info">Info</string>
+</resources>
